@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+## Click on the link below to go to Github
+[GitHub](http://github.com)
